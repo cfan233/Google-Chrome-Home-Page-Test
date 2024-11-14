@@ -1,6 +1,6 @@
-# WhiteModeRenderingTest.py
+# test_white_mode_rendering.py
 from selenium.webdriver.common.by import By
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class WhiteModeRenderingTest(BaseTest):
     def test_white_mode_rendering(self):

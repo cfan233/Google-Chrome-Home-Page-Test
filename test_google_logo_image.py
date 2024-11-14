@@ -1,6 +1,6 @@
 # test_google_logo_image.py
 from selenium.webdriver.common.by import By
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class GoogleLogoImageTest(BaseTest):
     def test_google_logo_image(self):

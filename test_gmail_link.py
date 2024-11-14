@@ -1,7 +1,7 @@
-# GmailLinkTest.py
+# test_gmail_link.py
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class GmailLinkTest(BaseTest):
     def test_gmail_link(self):

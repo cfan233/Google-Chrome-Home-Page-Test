@@ -1,4 +1,4 @@
-# BaseTest.py
+# base_test.py
 from selenium import webdriver
 import unittest
 import os

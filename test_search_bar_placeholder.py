@@ -1,6 +1,6 @@
-# SearchBarPlaceholderTest.py
+# test_search_bar_placeholder.py
 from selenium.webdriver.common.by import By
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class SearchBarPlaceholderTest(BaseTest):
     def test_search_bar_placeholder(self):

@@ -1,6 +1,6 @@
 # test_search_functionality.py
 from selenium.webdriver.common.by import By
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class SearchFunctionalityTest(BaseTest):
     def test_search_box_present(self):

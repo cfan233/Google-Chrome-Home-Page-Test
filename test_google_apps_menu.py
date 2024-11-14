@@ -1,7 +1,7 @@
-# GoogleAppsMenuTest.py
+# test_google_apps_menu.py
 from selenium.webdriver.common.by import By
 import time
-from BaseTest import BaseTest
+from base_test import BaseTest
 
 class GoogleAppsMenuTest(BaseTest):
     def test_google_apps_menu(self):
