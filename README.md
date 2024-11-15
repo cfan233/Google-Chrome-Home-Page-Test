@@ -64,3 +64,9 @@ GoogleHomePageTests/
 
 ### 8. Sign-In Button Test
    - Clicks the "Sign In" button, enters an email, and then proceeds to enter a password.
+   - ### Note for Sign-In Button Test
+
+**Important:**
+- This test is intended for demonstration purposes and does not handle MFA (multi-factor authentication) or other advanced security checks that may be associated with the account. The test only verifies the initial steps of the login process.
+- **Replace the email and password values in the test code** with your own test credentials to execute the sign-in steps. These credentials are hardcoded for the purpose of testing and should not be used with real, sensitive account information.
+- The test will not cover or bypass any additional security measures (such as MFA) that may be required by Google after entering the email and password. 
